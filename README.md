@@ -6,3 +6,5 @@ You need to install linx tool in Multisim to use this project, you also need a s
 You can tweak the parameters for your requirements and detect other gases and use other gas sensors just make sure to read the documentation of the sensor and set the parameters accordingly.
 
 Refer "https://docs.particle.io/assets/datasheets/electronsensorkit/MQ-2.pdf" for the documentation of Mq2 sensor
+
+Caution: Don't use actual LPG for this project, this project just demostrates that the idea can be implemented using Multisim. We used the common lighter fuel for demonstration which composes of butane hence it's an excellent alternative. Be careful and aware even if you're using a lighter.
