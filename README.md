@@ -4,3 +4,5 @@ The project makes use of an MQ-2 gas sensor for detection of butane in LPG (80% 
 There is the working .vi file for the project "LPG.vi."
 You need to install linx tool in Multisim to use this project, you also need a stepper motor, a gas sensor, and an arduino.
 You can tweak the parameters for your requirements and detect other gases and use other gas sensors just make sure to read the documentation of the sensor and set the parameters accordingly.
+
+Refer "https://docs.particle.io/assets/datasheets/electronsensorkit/MQ-2.pdf" for the documentation of Mq2 sensor
